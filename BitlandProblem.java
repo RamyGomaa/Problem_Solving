@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author RamyGomaa
  */
-public class Bitland {
+public class BitlandProblem {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
